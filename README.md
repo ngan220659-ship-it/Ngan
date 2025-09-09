@@ -1,2 +1,1 @@
-#ngan
- Giới thiệu : Tôi là Nguyễn Hữu Ngạn , 220659.
+Đây là README từ nhánh main.
